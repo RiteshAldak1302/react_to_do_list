@@ -15,7 +15,7 @@ export default function Header() {
           <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" href="/about.js">About</a>
+          <a className="nav-link active" href="/about">About</a>
         </li>
       </ul>
     </div>

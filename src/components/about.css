@@ -1,6 +1,6 @@
 body {
-    background: black;
-    overflow: hidden;
+    background: white;
+   
   }
   
   .centerBike {
@@ -22,12 +22,12 @@ body {
   #loop {
     height: 100px;
     width: 100px;
-    border: #bb5f27 solid 4px;
+    border: #000000 solid 4px;
     border-radius: 200px;
   }
   
   #loop:before {
-    background: linear-gradient(to left, rgba(187, 95, 39, 0) 0%, rgba(187, 95, 39, 1) 30%, rgba(187, 95, 39, 1) 70%, rgba(187, 95, 39, 0) 100%);
+    background: linear-gradient(to left, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0) 30%, rgb(0, 0, 0) 70%, rgba(0, 0, 0, 0) 100%);
     content: "";
     display: block;
     height: 4px;
